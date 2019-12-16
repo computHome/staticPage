@@ -1,2 +1,0 @@
-# staticPage
-Created with CodeSandbox
